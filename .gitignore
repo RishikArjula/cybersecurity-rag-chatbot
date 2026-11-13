@@ -1,0 +1,23 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environments
+.venv/
+venv/
+cyber/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated FAISS database
+vectorstore/
+
+# IDE files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
